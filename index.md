@@ -5,8 +5,7 @@ Lab 3
 
 I have chosen to work with the grep command and observe its various outcomes and behaviors.
 
-[Source for all commands](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+I used this [Source for all commands](https://www.geeksforgeeks.org/grep-command-in-unixlinux/). It is a link to a geeksforgeeks page explaining various grep commands.
 
 One interesting command line I have found with grep is the command `grep "^string" file_name`. This command searches within the given file and returns every instance of the string that is included after grep and this is extremely useful for parsing a large file for information you want.
 
