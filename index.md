@@ -5,6 +5,8 @@ Lab 3
 
 I have chosen to work with the grep command and observe its various outcomes and behaviors.
 
+[Source for all commands](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 One interesting command line I have found with grep is the command `grep "^string" file_name`. This command searches within the given file and returns every instance of the string that is included after grep and this is extremely useful for parsing a large file for information you want.
 
 the output is: ![image](https://user-images.githubusercontent.com/122575342/218666441-c6d55967-1a0e-4705-9144-793e57e47bb9.png)
